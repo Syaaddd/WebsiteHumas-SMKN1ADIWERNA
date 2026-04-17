@@ -91,6 +91,8 @@
     --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     --default-font-family: var(--font-sans);
     --default-mono-font-family: var(--font-mono);
+    --color-brand-orange: #f97316;
+    --color-brand-green: #16a34a;
   }
 }
 @layer base {
