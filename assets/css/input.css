@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-orange: #f97316;
+  --color-brand-orange-dark: #ea580c;
+  --color-brand-orange-light: #fff7ed;
+  --color-brand-green: #16a34a;
+  --color-brand-green-dark: #15803d;
+  --color-brand-green-light: #f0fdf4;
+  --color-brand-gray: #6b7280;
+  --color-brand-dark: #1f2937;
+  --color-brand-surface: #f9fafb;
+
+  --font-display: 'Segoe UI', ui-sans-serif, system-ui, sans-serif;
+}
